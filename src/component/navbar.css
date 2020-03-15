@@ -1,0 +1,31 @@
+.container-navbar {
+	width: 100%;
+	height: 80px;
+	background: #2196f3;
+	text-align: center;
+	font-size: 40px;
+}
+
+.home {
+	float: left;
+	width: 80px;
+	height: 100%;	
+	font-size: 20px;
+	margin-top: 30px;
+	color: white;
+}
+
+.logout {
+	float: right;
+	width: 80px;
+	height: 100%;
+	font-size: 20px;
+	color: white;
+	margin-top: 30px;
+}
+
+p.news {
+	font-size: 30px;
+	display: inline-block;
+	font-weight: bold;
+}

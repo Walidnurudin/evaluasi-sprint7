@@ -1,0 +1,25 @@
+.cont {
+	width: 70%;
+	background: gray;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.data {
+	padding: 10px;
+}
+
+.loading {
+	text-align: center;
+	margin-top: 100px;
+	color: lightgreen;
+	font-size: 100px;
+}
+
+.teks {
+	color: white;
+}
+
+.teks-date {
+	color: white;
+}
